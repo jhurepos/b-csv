@@ -1,5 +1,7 @@
 # Frenzy = Compute
 
+> *Individual/Dionysian observations are unpredictable but Group/Apollonian patterns exist*
+
                       1. Chaos
                               \
                  2. Frenzy -> 4. Unpredictable -> 5. Algorithms -> 6. Binary
