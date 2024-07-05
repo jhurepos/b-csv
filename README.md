@@ -2,7 +2,7 @@
 
                       1. Chaos
                               \
-                 2. Frenzy -> 4.Unpredictable -> 5. Algorithms -> 6. Binary
+                 2. Frenzy -> 4. Unpredictable -> 5. Algorithms -> 6. Binary
                               /
                               3. Energy
 
