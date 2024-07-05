@@ -9,11 +9,15 @@
                               3. Energy
 
 
-##
-- 60% Basic Science
-- 30% Translational
-- 10% Education & Outreach
 
-### Dionysus 1, 2, 3
-### Sing O Muse! 4
-### Apollo 5, 6
+### Dionysus 1, 2, 3 (Target)
+- Patients
+- Caregivers
+- Developers & Students
+
+### Sing O Muse 4 (Product)
+- WebApp
+
+### Apollo 5, 6 (Dependencies)
+- Risk: Mortality & Kidney Failure 
+- Sentinel: Hospitalization 
